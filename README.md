@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaffrey
 - 👀 I’m interested in FrontEnd Developing
-- - 🌱 I’m currently learning React.JS
+- 🌱 I’m currently learning React.JS
 - ✨ I am new in this industry, hope to learn from you guys
 - 📫 You can reach me at my LinkedIn ==> linkedin.com/in/jaffrey-musin/
 
